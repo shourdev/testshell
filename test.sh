@@ -1,1 +1,1 @@
-mkdir test2
+echo "hahayes" >> .bash_history
